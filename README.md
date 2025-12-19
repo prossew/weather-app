@@ -10,8 +10,8 @@ The application allows the user to enter the name of the city and receive up-to-
 - Wind speed (m/s)
 - Humidity (%)
 
-View the project online: 👉
-
+View the project online: 👉 https://prossew.github.io/weather-app/
+ 
 
 
 
